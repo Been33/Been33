@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Choi Woobin.
+My name is Choi Woobin(Been33).
 
 - 🔭 I live in Gimpo, Korea....
 - 🌱 I’m currently learning computer programming in hanyang erica...
