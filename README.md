@@ -1,0 +1,9 @@
+### Hi there 👋
+
+My name is Choi Woobin.
+
+- 🔭 I live in Gimpo, Korea....
+- 🌱 I’m currently learning computer programming in hanyang erica...
+- 📫 How to reach me: been3774@naver.com ...
+
+-->
